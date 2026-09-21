@@ -1,0 +1,18 @@
+{
+    "vivapayments_data": {
+        "column": {
+            "id": true,
+            "ref": true,
+            "ordercode": true,
+            "email_address": true,
+            "order_id": true,
+            "total_cost": true,
+            "currency": true,
+            "order_state": true,
+            "timestamp": true
+        },
+        "constraint": {
+            "PRIMARY": true
+        }
+    }
+}
